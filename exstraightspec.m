@@ -23,7 +23,7 @@ function [n3sgram,analysisParamsSp]=exstraightspec(x,f0raw,fs,optionalParamsSP)
 
 %   Designed and coded by Hideki Kawahara
 %   15/January/2005
-%   01/February/2005
+%   01/February/200
 %   11/Sept./2005 waitbar control is fixed.
 %   05/July/2006 default values are modified, eta, framem
 
